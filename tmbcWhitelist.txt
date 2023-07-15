@@ -4,3 +4,4 @@ deere.com
 google.com/maps
 github.com
 serverkm.com/whitelistbrowser
+neverssl.com
