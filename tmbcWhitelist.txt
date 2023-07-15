@@ -3,4 +3,4 @@ microsoft.com
 deere.com
 google.com/maps
 github.com
-raw.githubusercontent.com/kenemar/pac
+serverkm.com/whitelistbrowser
