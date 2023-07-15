@@ -3,4 +3,4 @@ microsoft.com
 deere.com
 google.com/maps
 github.com
-https://raw.githubusercontent.com/kenemar/pac/main/index.html
+https://raw.githubusercontent.com/kenemar/pac
