@@ -8,3 +8,4 @@ neverssl.com
 info.cern.ch
 thomasnet.com
 airbnb.com
+service-public.gouv.tg
