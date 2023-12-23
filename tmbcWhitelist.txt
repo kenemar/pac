@@ -1,12 +1,9 @@
 voyage.gouv.tg
-microsoft.com
-deere.com
-google.com/maps
-github.com
 serverkm.com/whitelistbrowser
-neverssl.com
-info.cern.ch
-thomasnet.com
-airbnb.com
 service-public.gouv.tg
 epatch.pa.gov
+togocelmoney.tg
+dgdn.gouv.tg
+legacy-voyage.gouv.tg
+appli.tresorpublic.gouv.tg
+precisionservo-my.sharepoint.com
