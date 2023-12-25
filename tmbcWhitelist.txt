@@ -1,6 +1,7 @@
 voyage.gouv.tg
 serverkm.com/whitelistbrowser
 service-public.gouv.tg
+auth.service-public.gouv.tg
 epatch.pa.gov
 togocelmoney.tg
 dgdn.gouv.tg
