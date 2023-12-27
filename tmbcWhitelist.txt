@@ -8,3 +8,4 @@ dgdn.gouv.tg
 legacy-voyage.gouv.tg
 appli.tresorpublic.gouv.tg
 precisionservo-my.sharepoint.com
+raw.githubusercontent.com
