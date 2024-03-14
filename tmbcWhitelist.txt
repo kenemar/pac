@@ -10,3 +10,4 @@ appli.tresorpublic.gouv.tg
 precisionservo-my.sharepoint.com
 raw.githubusercontent.com
 globalgatewaye4.firstdata.com
+checkout.globalgatewaye4.firstdata.com
