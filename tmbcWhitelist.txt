@@ -11,4 +11,5 @@ precisionservo-my.sharepoint.com
 raw.githubusercontent.com
 globalgatewaye4.firstdata.com
 checkout.globalgatewaye4.firstdata.com
-gov.gh
+home.gov.gh
+gis.gov.gh
