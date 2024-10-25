@@ -17,3 +17,5 @@ gis.gov.gh
 lome.ghanagovernmentmission.com
 ghs-hdf.org
 tg.usembassy.gov
+evisaforms.state.gov
+pptform.state.gov
