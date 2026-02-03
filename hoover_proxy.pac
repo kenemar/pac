@@ -15,4 +15,4 @@ function FindProxyForURL(url, host) {
     shExpMatch(host, "*icloud.com"))
     return "DIRECT";
 //DEFAULT RULE: Route all other traffic to log/block proxy
-    return "PROXY 168.86.236.177:8321"; }
+    return "PROXY 2924remote.duckdns.org:8321"; }
