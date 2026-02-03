@@ -1,6 +1,7 @@
 // If the URL matches allow pattern, bypass
 function FindProxyForURL(url, host) {
-    if (shExpMatch(url, "*idemia*") ||
+if (
+    shExpMatch(url, "*idemia*") ||
     dnsDomainIs(host, "business.google.com") ||
     dnsDomainIs(host, "accounts.google.com") ||
     dnsDomainIs(host, "clients3.google.com") ||
@@ -12,7 +13,9 @@ function FindProxyForURL(url, host) {
     shExpMatch(host, "*idemia.io") ||
     shExpMatch(host, "*run.app") ||
     shExpMatch(host, "*truckertools.com") ||
-    shExpMatch(host, "*icloud.com"))
+    shExpMatch(host, "*icloud.com")
+    ) {
     return "DIRECT";
+}
 //DEFAULT RULE: Route all other traffic to log/block proxy
-    return "PROXY 2924remote.duckdns.org:8321"; }
+return "PROXY 2924remote.duckdns.org:8321"; }
