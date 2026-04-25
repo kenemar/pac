@@ -22,3 +22,4 @@ pptform.state.gov
 translate.google.com
 flightradar24.com
 my.magicjack.com
+services.dgdn.gouv.tg
