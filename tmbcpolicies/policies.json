@@ -11,21 +11,16 @@
         "*://192.168.*.*/*",
         "*://*.gouv.tg/*",
         "*://*.gov.gh/*",
-        "*://epatch.pa.gov/*",
-        "*://precisionservo-my.sharepoint.com/*",
+        "*://*.epatch.pa.gov/*",
         "*://*.precisionservo-my.sharepoint.com/*",
-        "*://globalgatewaye4.firstdata.com/*",
         "*://*.globalgatewaye4.firstdata.com/*",
-        "*://checkout.globalgatewaye4.firstdata.com/*",
         "*://*.checkout.globalgatewaye4.firstdata.com/*",
         "*://*.lome.ghanagovernmentmission.com/*",
-        "*://ghs-hdf.org/*",
         "*://*.ghs-hdf.org/*",
         "*://*.tg.usembassy.gov/*",
-        "*://state.gov/*",
         "*://*.state.gov/*",
         "*://*.translate.google.com/*",
-        "*://flightradar24.com/*",
+        "*://*.flightradar24.com/*",
         "*://*.magicjack.com/*"
       ]
     }
