@@ -13,15 +13,22 @@
         "*://*.gov.gh/*",
         "*://epatch.pa.gov/*",
         "*://precisionservo-my.sharepoint.com/*",
+        "*://*.precisionservo-my.sharepoint.com/*",
         "*://globalgatewaye4.firstdata.com/*",
+        "*://*.globalgatewaye4.firstdata.com/*",
         "*://checkout.globalgatewaye4.firstdata.com/*",
+        "*://*.checkout.globalgatewaye4.firstdata.com/*",
         "*://lome.ghanagovernmentmission.com/*",
+        "*://*.lome.ghanagovernmentmission.com/*",
         "*://ghs-hdf.org/*",
+        "*://*.ghs-hdf.org/*",
         "*://tg.usembassy.gov/*",
+        "*://*.tg.usembassy.gov/*",
         "*://state.gov/*",
-        "*://translate.google.com/*",
+        "*://*.state.gov/*",
+        "*://*.translate.google.com/*",
         "*://flightradar24.com/*",
-        "*://magicjack.com/*"
+        "*://*.magicjack.com/*"
       ]
     }
   }
