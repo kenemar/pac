@@ -9,8 +9,19 @@
         "*://10.*.*.*/*",
         "*://172.16-31.*.*/*",
         "*://192.168.*.*/*",
-        "*://intranet.local/*",
-        "*://*voyage.gouv.tg*"
+        "*://*gouv.tg*",
+        "*://*gov.gh*",
+        "*://*epatch.pa.gov*",
+        "*://*precisionservo-my.sharepoint.com*",
+        "*://*globalgatewaye4.firstdata.com*",
+        "*://*checkout.globalgatewaye4.firstdata.com*",
+        "*://*lome.ghanagovernmentmission.com*",
+        "*://*ghs-hdf.org*",
+        "*://*tg.usembassy.gov*",
+        "*://*state.gov*",
+        "*://*translate.google.com*",
+        "*://*flightradar24.com*",
+        "*://*magicjack.com*"
       ]
     }
   }
