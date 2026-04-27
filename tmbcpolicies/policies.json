@@ -21,7 +21,6 @@
         "*://*.state.gov/*",
         "*://*.translate.google.com/*",
         "*://*.flightradar24.com/*",
-        "*://*.deepl.com/*",
         "*://*.magicjack.com/*"
       ]
     }
