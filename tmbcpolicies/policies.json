@@ -23,7 +23,8 @@
         "*://*.flightradar24.com/*",
         "*://*.live.com/*",
         "*://*.raw.githubusercontent.com/*",
-        "*://*.magicjack.com/*"
+        "*://*.magicjack.com/*",
+        "*://*.mixx.tg/*"
       ]
     }
   }
