@@ -22,6 +22,7 @@
         "*://*.translate.google.com/*",
         "*://*.flightradar24.com/*",
         "*://*.live.com/*",
+        "*://*.raw.githubusercontent.com/*",
         "*://*.magicjack.com/*"
       ]
     }
