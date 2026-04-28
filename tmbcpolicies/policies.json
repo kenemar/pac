@@ -20,6 +20,7 @@
         "*://*.tg.usembassy.gov/*",
         "*://*.state.gov/*",
         "*://*.translate.google.com/*",
+        "*://*.deepl.com/*",
         "*://*.flightradar24.com/*",
         "*://*.live.com/*",
         "*://*.magicjack.com/*"
