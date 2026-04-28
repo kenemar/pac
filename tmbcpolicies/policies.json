@@ -24,7 +24,8 @@
         "*://*.live.com/*",
         "*://*.raw.githubusercontent.com/*",
         "*://*.magicjack.com/*",
-        "*://*.mixx.tg/*"
+        "*://*.mixx.tg/*",
+        "*://*.yas.tg/*"
       ]
     }
   }
